@@ -1,7 +1,0 @@
-mkdir ~/Test
-cd ~/Test
-git init
-touch Readme.txt
-git status
-git add Readme.txt
-git commit -m “Add Readme.txt”
